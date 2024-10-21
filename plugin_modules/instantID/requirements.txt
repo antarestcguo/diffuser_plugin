@@ -1,0 +1,5 @@
+diffusers==0.25.1
+insightface
+peft
+controlnet_aux
+bitsandbytes

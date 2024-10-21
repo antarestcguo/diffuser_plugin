@@ -1,0 +1,22 @@
+.DS_Store
+.idea
+models
+
+# image
+*.png
+*.jpg
+*.jpeg
+*.JPEG
+*.JPG
+*.PNG
+
+# tmp files
+tmp*
+
+# __pycache__
+*__pycache__*
+
+resource
+log*
+
+lc
