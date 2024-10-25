@@ -1,0 +1,46 @@
+{
+  "tiger": {
+    "prompt": "a portrait photo of a cub tiger on the stone,round face, full body, big black bright eyes, white background, chinese ink paintings style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "lynx": {
+    "prompt": "a portrait photo of a lynx on the rock, full body, white background, chinese ink paintings style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "lion": {
+    "prompt": "a portrait photo of a cub lion on the grass, round face, white background, chinese ink paintings style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon,noisy, blurry, soft, deformed, ugly"
+  },
+  "blackbear": {
+    "prompt": "a portrait photo of An Asian black bear cub climbs tree, full body,  big eyes, white background, chinese ink paintings style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon,noisy, blurry, soft, deformed, ugly"
+  },
+  "redpanda": {
+    "prompt": "a portrait photo of a red panda, full body, big eyes, white background, chinese ink paintings style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon,noisy, blurry, soft, deformed, ugly"
+  },
+  "polarbear": {
+    "prompt": "a portrait photo of a polar bear and its cubs,full body, big eyes, white background, chinese ink paintings style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon,noisy, blurry, soft, deformed, ugly"
+  },
+  "seal": {
+    "prompt": "A seal on the ice,full body,big eyes, white background, chinese ink paintings style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "leopard": {
+    "prompt": "a portrait photo of a cub leopard leans on the tree,round face, full body,big eyes, white background, chinese ink paintings style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "snowleopard": {
+    "prompt": "a portrait photo of a snow leopard on the stone, full body, big eyes, white background, chinese ink paintings style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "Jaguar": {
+    "prompt": "a portrait photo of a Jaguar on the stone, full body,big eyes, white background, chinese ink paintings style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "cheetah": {
+    "prompt": "a portrait photo of a cheetah stands on the grass, full body, big eyes, white background, chinese ink paintings style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Manul": {
+    "prompt": "a portrait photo of a animal, white background, watercolor style, professional, 4k, highly detailed",
+    "strength": 0.9,
+    "image_path": "./resource/animal_resource_image/tusun_masked.png"
+  },
+  "kolinsky": {
+    "prompt": "a portrait photo of a kolinsky, white background, watercolor style, professional, 4k, highly detailed",
+    "strength": 0.7,
+    "image_path": "./resource/animal_resource_image/huanghoudiao.jpeg"
+  },
+  "nightheron": {
+    "prompt": "a portrait photo of a night heron,white background, watercolor style, professional, 4k, highly detailed",
+    "strength": 0.7,
+    "image_path": "./resource/animal_resource_image/yelu_masked.jpg"
+  }
+}

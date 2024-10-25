@@ -44,14 +44,31 @@ if __name__ == '__main__':
     max_gen_num = 4
     guidance_scale = 3.5
     # pos_prefix = "masterpiece, watercolor style, close-up front portrait photo"
-    pos_prefix = "masterpiece, debluring, close-up front portrait photo, Detailed clear face, frontal face"
     # pos_suffix = "realistic, photographic, best-quality, High Resolution, intricate detail"
-    pos_suffix = "Smooth strokes, Pastel colors, Low saturation, Create artwork, masterpiece,best-quality, High Resolution, intricate detail"
+
+    # animal
+    # pos_prefix = "masterpiece, debluring, close-up front portrait photo, Detailed clear face, frontal face"
+    # pos_suffix = "Smooth strokes, Pastel colors, Low saturation, Create artwork, masterpiece,best-quality, High Resolution, intricate detail"
+
+    # animal chinese ink
+    # pos_prefix = "masterpiece, colorful chinese ink paintings style, close-up front portrait photo"
+    # pos_suffix = "Smooth strokes, Pastel colors, Low saturation, Create artwork, masterpiece,best-quality, High Resolution, intricate detail"
+
+    # stamp
+    pos_prefix = "masterpiece,hyperrealism, close-up front portrait photo, Detailed clear face, frontal face"
+    pos_suffix = "hyperrealism, masterpiece,best-quality, High Resolution, intricate detail"
+
+    # stamp full body
+    # pos_prefix = "masterpiece, full body, hyperrealism"
+    # pos_suffix = "hyperrealism, masterpiece,best-quality, High Resolution, intricate detail"
+
     # load flux model
     pipe = FluxPipeline.from_pretrained(args.flux_model,
-                                        torch_dtype=torch_dtype,
+                                        # torch_dtype=torch_dtype,
+                                        torch_dtype=torch.bfloat16,
                                         use_safetensors=True,
-                                        variant=model_type).to(device)
+                                        # variant=model_type
+                                        ).to(device)
     # pipe.scheduler = DPMSolverMultistepScheduler.from_config(pipe.scheduler.config)
     pipe.scheduler = FlowMatchEulerDiscreteScheduler.from_config(os.path.join(args.flux_model,'scheduler_flux/scheduler_config.json'),timestep_spacing="trailing")
     # pipe.scheduler = DPMSolverMultistepScheduler.from_config(

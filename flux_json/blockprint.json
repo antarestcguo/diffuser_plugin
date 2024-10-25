@@ -1,0 +1,54 @@
+{
+  "tiger": {
+    "prompt": "a block print style drawing of a cub tiger portrait, round face, big eyes,full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "lynx": {
+    "prompt": "a block print style drawing of a cub lynx portrait, big eyes, full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "lion": {
+    "prompt": "a block print style drawing of a cub lion baby portrait, round face, big eyes.black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "redpanda": {
+    "prompt": "a block print style drawing of a red panda portrait, big eyes,full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "polarbear": {
+    "prompt": "a block print style drawing of a polar bear, big eyes. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "leopard": {
+    "prompt": "a block print style drawing, a portrait of a cub leopard. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "cheetah": {
+    "prompt": "a block print style drawing, a portrait photo of a cheetah, small ears, full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "meerkat": {
+    "prompt": "a block print style drawing of a meerkat stands on the stone, Standing lookout, full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "caracal": {
+    "prompt": "a block print style drawing of a caracal cub portrait, big eyes, full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "serval": {
+    "prompt": "a block print style drawing of a serval cub portrait,  big eyes, full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "fox": {
+    "prompt": "a block print style drawing, a portrait photo of a fox, big eyes, big tail, full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "hyena": {
+    "prompt": "a block print style drawing, a portrait photo of a hyena, big eyes. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "wolf": {
+    "prompt": "a block print style drawing, a portrait photo of a wolf, big eyes, big tail, full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  }
+}
