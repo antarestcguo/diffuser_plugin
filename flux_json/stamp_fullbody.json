@@ -4,7 +4,7 @@
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
   },
   "lion": {
-    "prompt": "a stamp drawing of a cub lion. hairy, black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "prompt": "a stamp drawing of a lion looking at the camera. hairy, black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
   },
   "redpanda": {
@@ -16,11 +16,15 @@
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
   },
   "leopard": {
-    "prompt": "a stamp drawing of a cub leopard.black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "prompt": "a stamp drawing of a leopard. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
   },
   "cheetah": {
-    "prompt": "a stamp drawing of a cheetah, full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "prompt": "a stamp drawing of a cheetah looking at the camera, long tail, full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "runcheetah": {
+    "prompt": "a stamp drawing of a running cheetah, frontal face, large face, run very fast, long tail, full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
   },
   "caracal": {
@@ -43,8 +47,16 @@
     "prompt": "a stamp drawing of a wolf, full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
   },
-  "nightheron": {
-    "prompt": "a stamp drawing of a night heron, full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+  "blackbear": {
+    "prompt": "a stamp drawing, a portrait photo of a Asian black bear, full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "brownbear": {
+    "prompt": "a stamp drawing, a portrait photo of a brown bear, full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "arcticfox": {
+    "prompt": "a stamp drawing, a portrait photo of a arctic fox, big eyes, big tail, full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
   }
 }

@@ -1,6 +1,6 @@
 {
   "Manul": {
-    "prompt": "a portrait photo of a animal, white background, watercolor style, professional, 4k, highly detailed",
+    "prompt": "a watercolor drawing, a portrait photo of a felis manul stands on the stone, full body, big eyes, clean white background, watercolor style, professional, 4k, highly detailed",
     "strength": 0.9,
     "image_path": "./resource/animal_resource_image/tusun_masked.png"
   },

@@ -1,0 +1,62 @@
+{
+  "tiger": {
+    "prompt": "a watercolor drawing of a cub tiger portrait, looking up to the side, fixed gaze, round face, big eyes,full body. white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "lynx": {
+    "prompt": "a watercolor drawing of a lynx portrait, looking up to the side, fixed gaze, big eyes, full body. white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "lion": {
+    "prompt": "a watercolor drawing of a cub lion portrait, looking up to the side, fixed gaze, round face, big eyes.white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "redpanda": {
+    "prompt": "a watercolor drawing of a red panda portrait, looking up to the side, fixed gaze, big eyes,full body. white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "leopard": {
+    "prompt": "a watercolor drawing of a cub leopard portrait. looking up to the side, fixed gaze, white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "cheetah": {
+    "prompt": "a watercolor drawing of a cheetah portrait, small ears, looking up to the side, fixed gaze. white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "snowleopard": {
+    "prompt": "a watercolor drawing of a snow leopard portrait, looking up to the side, fixed gaze, full body, big eyes, white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "polarbear": {
+    "prompt": "a watercolor drawing of a polar bear portrait, looking up to the side, fixed gaze full body, big eyes, white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon,noisy, blurry, soft, deformed, ugly"
+  },
+  "fox": {
+    "prompt": "a watercolor drawing, a portrait photo of a fox, big eyes, looking up to the side, fixed gaze. white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "hyena": {
+    "prompt": "a watercolor drawing, a portrait photo of a hyena, looking up to the side, fixed gaze. white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "wolf": {
+    "prompt": "a watercolor drawing, a portrait photo of a wolf, looking up to the side, fixed gaze. white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "brownbear": {
+    "prompt": "a watercolor drawing, a portrait photo of a brown bear, looking up to the side, fixed gaze.clean white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "blackbear": {
+    "prompt": "a watercolor drawing, a portrait photo of a moon bear, looking up to the side, fixed gaze. white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon,noisy, blurry, soft, deformed, ugly"
+  },
+  "caracal": {
+    "prompt": "a watercolor drawing, a portrait photo of a caracal, looking up to the side, fixed gaze.clean white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "serval": {
+    "prompt": "a watercolor drawing, a portrait photo of a serval, looking up to the side, fixed gaze.clean white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  }
+}

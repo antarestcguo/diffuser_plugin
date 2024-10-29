@@ -1,58 +1,82 @@
 {
   "tiger": {
-    "prompt": "a portrait photo of a cub tiger on the stone,round face, full body, big black bright eyes, white background, watercolor style, professional, 4k, highly detailed",
+    "prompt": "a watercolor drawing, a portrait photo of a cub tiger on the stone,round face, full body, big black bright eyes, white background, watercolor style, professional, 4k, highly detailed",
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
   },
   "lynx": {
-    "prompt": "a portrait photo of a lynx on the rock, full body, white background, watercolor style, professional, 4k, highly detailed",
+    "prompt": "a watercolor drawing of a lynx portrait, on the rock, full body, white background, watercolor style, professional, 4k, highly detailed",
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
   },
   "lion": {
-    "prompt": "a portrait photo of a cub lion on the grass, round face, white background, watercolor style, professional, 4k, highly detailed",
+    "prompt": "a watercolor drawing of a cub lion portrait on the grass, round face, white background, watercolor style, professional, 4k, highly detailed",
     "negative_prompt": "cartoon,noisy, blurry, soft, deformed, ugly"
   },
   "blackbear": {
-    "prompt": "a portrait photo of An Asian black bear cub climbs tree, full body,  big eyes, white background, watercolor style, professional, 4k, highly detailed",
+    "prompt": "a watercolor drawing, a portrait photo of a moon bear, full body, white background, watercolor style, professional, 4k, highly detailed",
     "negative_prompt": "cartoon,noisy, blurry, soft, deformed, ugly"
   },
   "redpanda": {
-    "prompt": "a portrait photo of a red panda, full body, big eyes, white background, watercolor style, professional, 4k, highly detailed",
+    "prompt": "a watercolor drawing of a red panda portrait, full body, big eyes, white background, watercolor style, professional, 4k, highly detailed",
     "negative_prompt": "cartoon,noisy, blurry, soft, deformed, ugly"
   },
   "polarbear": {
-    "prompt": "a portrait photo of a polar bear and its cubs,full body, big eyes, white background, watercolor style, professional, 4k, highly detailed",
+    "prompt": "a watercolor drawing, a portrait of a polar bear and its cubs,full body, big eyes, white background, watercolor style, professional, 4k, highly detailed",
     "negative_prompt": "cartoon,noisy, blurry, soft, deformed, ugly"
   },
   "seal": {
-    "prompt": "A seal on the ice,full body,big eyes, white background, watercolor style, professional, 4k, highly detailed",
+    "prompt": "a watercolor drawing of a seal on the ice,full body,big eyes, white background, watercolor style, professional, 4k, highly detailed",
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
   },
   "leopard": {
-    "prompt": "a portrait photo of a cub leopard leans on the tree,round face, full body,big eyes, white background, watercolor style, professional, 4k, highly detailed",
+    "prompt": "a watercolor drawing, a portrait photo of a cub leopard leans on the tree,round face, full body,big eyes, white background, watercolor style, professional, 4k, highly detailed",
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
   },
   "snowleopard": {
-    "prompt": "a portrait photo of a snow leopard on the stone, full body, big eyes, white background, watercolor style, professional, 4k, highly detailed",
+    "prompt": "a watercolor drawing, a portrait photo of a snow leopard on the stone, full body, big eyes, white background, watercolor style, professional, 4k, highly detailed",
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
   },
   "Jaguar": {
-    "prompt": "a portrait photo of a Jaguar on the stone, full body,big eyes, white background, watercolor style, professional, 4k, highly detailed",
+    "prompt": "a watercolor drawing, a portrait photo of a Jaguar on the stone, full body,big eyes, white background, watercolor style, professional, 4k, highly detailed",
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
   },
   "cheetah": {
-    "prompt": "a portrait photo of a cheetah stands on the grass, full body, big eyes, white background, watercolor style, professional, 4k, highly detailed",
+    "prompt": "a watercolor drawing, a portrait photo of a cheetah stands on the grass, full body, big eyes, white background, watercolor style, professional, 4k, highly detailed",
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
   },
   "meerkat": {
-    "prompt": "three meerkats stand on the stone, Standing lookout, full body, big eyes, white background, watercolor style, professional, 4k, highly detailed",
+    "prompt": "a watercolor drawing of three meerkats stand on the stone, Standing lookout, full body, big eyes, white background, watercolor style, professional, 4k, highly detailed",
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
   },
   "manul": {
-    "prompt": "a portrait photo of a felis manul stands on the stone, full body, big eyes, white background, watercolor style, professional, 4k, highly detailed",
+    "prompt": "a watercolor drawing, a portrait photo of a felis manul stands on the stone, full body, big eyes, clean white background, watercolor style, professional, 4k, highly detailed",
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
   },
-  "nightheron": {
-    "prompt": "a portrait photo of a night heron stands on the stone, full body, white background, watercolor style, professional, 4k, highly detailed",
+  "caracal": {
+    "prompt": "a watercolor drawing, a portrait photo of a caracal, big eyes, full body.clean white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "serval": {
+    "prompt": "a watercolor drawing, a portrait photo of a serval, big eyes, full body.clean white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "brownbear": {
+    "prompt": "a watercolor drawing, a portrait photo of a brown bear, full body.clean white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "silverfox": {
+    "prompt": "a watercolor drawing, a portrait photo of a silver fox, full body.clean white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "redfox": {
+    "prompt": "a watercolor drawing, a portrait photo of a red fox,full body.clean white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "arcticfox": {
+    "prompt": "a watercolor drawing, a portrait photo of an arctic fox,full body.clean white background, watercolor style, professional, 4k, highly detailed",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "fox": {
+    "prompt": "a watercolor drawing, a portrait photo of an fox, big tail, full body.clean white background, watercolor style, professional, 4k, highly detailed",
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
   }
 }

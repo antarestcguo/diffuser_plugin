@@ -1,0 +1,42 @@
+{
+  "tiger": {
+    "prompt": "a stamp drawing of a cub tiger portrait, looking up to the side, fixed gaze, round face, big eyes,full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "lynx": {
+    "prompt": "a stamp drawing of a lynx portrait, looking up to the side, fixed gaze, big eyes, full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "lion": {
+    "prompt": "a stamp drawing of a cub lion portrait, looking up to the side, fixed gaze, round face, big eyes.black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "redpanda": {
+    "prompt": "a stamp drawing of a red panda portrait, looking up to the side, fixed gaze, big eyes,full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "leopard": {
+    "prompt": "a stamp drawing, a portrait of a leopard. looking up to the side, fixed gaze, black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "cheetah": {
+    "prompt": "a stamp drawing, a portrait photo of a cheetah, small ears, looking up to the side, fixed gaze. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "fox": {
+    "prompt": "a stamp drawing, a portrait photo of a fox, looking up to the side, fixed gaze. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "hyena": {
+    "prompt": "a stamp drawing, a portrait photo of a hyena, looking up to the side, fixed gaze. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "wolf": {
+    "prompt": "a stamp drawing, a portrait photo of a wolf, looking up to the side, fixed gaze. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "polarbear": {
+    "prompt": "a stamp drawing of a polar bear, looking up to the side, fixed gaze. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  }
+}

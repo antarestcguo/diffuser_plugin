@@ -50,5 +50,13 @@
   "wolf": {
     "prompt": "a stamp drawing, a portrait photo of a wolf, big eyes, big tail, full body. black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
     "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "brownbear": {
+    "prompt": "a stamp drawing, a portrait photo of a brown bear, full body.black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon, noisy, blurry, soft, deformed, ugly"
+  },
+  "blackbear": {
+    "prompt": "a stamp drawing, a portrait photo of a moon bear, full body, black and white, signet style, stamp style. professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "cartoon,noisy, blurry, soft, deformed, ugly"
   }
 }
